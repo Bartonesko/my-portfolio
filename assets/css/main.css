@@ -1666,7 +1666,7 @@ input, select, textarea {
 	button,
 	.button {
   	background-color: #AEE6D6 !important;             /* Solid black */
-  	color: #fff !important;                        /* White text */
+  	color: #E6E6FA !important;                        /* White text */
   	font-weight: 700;
   	text-decoration: none;
   	text-shadow: none !important;                  /* Remove glow text */
