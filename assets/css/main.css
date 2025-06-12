@@ -1706,7 +1706,7 @@ input, select, textarea {
 		input[type="reset"]:active,
 		button:active,
 		.button:active {
-			background-color: #3BA8D3;
+			background-color: #AEE6D6;
 			top: 1px;
 		}
 
@@ -1725,7 +1725,7 @@ input, select, textarea {
 		button.alt,
 		.button.alt {
 			background-color: #444;
-			box-shadow: inset 0px 0px 0px 1px #242424, inset 0px 2px 1px 0px rgba(255, 255, 255, 0.2);
+			box-shadow: inset 0px 0px 0px 1px #fff, inset 0px 2px 1px 0px rgba(255, 255, 255, 0.2);
 		}
 
 			input[type="button"].alt:hover,
